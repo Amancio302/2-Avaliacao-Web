@@ -1,0 +1,70 @@
+body{
+	background-image: url('../img/01.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #F0CED2;
+}
+
+#formulario_login{
+	text-align: center;
+	padding: 15%;
+	color: #B60000;
+	font-size: 30px;
+}
+
+#box{
+	opacity:0.5;
+	background-color: #C0C0C0;
+}
+
+#box:hover{
+	opacity:1;
+	background-color: #ABABAB;
+}
+
+a{
+	text-decoration: none;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	margin: 20px;
+	background-color: #C0C0C0;
+	font-size: 20px;
+	color: #B60000;
+	opacity: 0.75;
+	border-radius: 10px;
+}
+
+a:hover{
+	background-color: #ABABAB;
+	opacity: 1;
+}
+
+#btn{
+	text-decoration: none;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	margin: 20px;
+	background-color: #C0C0C0;
+	font-size: 20px;
+	color: #B60000;
+	opacity: 0.75;
+	border-radius: 10px;
+}
+
+#btn:hover{
+	background-color: #ABABAB;
+	opacity: 1;
+}
+
+h3{
+	font-size: 20px;
+	color: #B60000;
+}
+
+#formulario_cadastrar{
+	color: #B60000;
+}
+
+#formulario_postagem{
+	color: #B60000;
+}
